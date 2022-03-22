@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/15 19:37:10.414.dfm,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\PedidoVenda.dfm=C:\Users\felyprado\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/07/15 19:37:10.414.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\PedidoVenda.pas=C:\Users\felyprado\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/15 19:37:24.801.dproj,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\WKC_FelypePrado.dproj=C:\Users\felyprado\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/18 15:03:18.382.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Entity.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 15:05:08.822.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Clientes.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 15:29:39.891.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Controle.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/18 15:34:04.978.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\ConexaoBanco.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 20:58:22.684.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Pedidos.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 03:20:05.632.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\PedidosProdutos.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 03:28:14.023.pas,C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Produtos.pas=C:\Users\felyprado\Documents\Pessoal\WK Consultoria\Teste\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 10:13:14.000.478,=D:\Programas\Delphi\GitHUB\wkconsultoria\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 10:13:43.000.586,D:\Programas\Delphi\GitHUB\wkconsultoria\DMConexao.pas=D:\Programas\Delphi\GitHUB\wkconsultoria\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 10:13:43.000.586,D:\Programas\Delphi\GitHUB\wkconsultoria\DMConexao.dfm=D:\Programas\Delphi\GitHUB\wkconsultoria\Unit1.dfm</Transaction>
+    <Transaction>2022/03/22 11:12:46.000.114,D:\BACKUP\Testes\WKConsultoria\WKC_PedidoVenda.dproj=C:\Users\Welington\Downloads\wkconsultoria-main\WKC_FelypePrado.dproj</Transaction>
+    <Transaction>2022/03/22 11:15:00.690,C:\Users\Welington\Downloads\wkconsultoria-main\Produtos.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.895,C:\Users\Welington\Downloads\wkconsultoria-main\PedidoVenda.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.907,C:\Users\Welington\Downloads\wkconsultoria-main\PedidosProdutos.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.926,C:\Users\Welington\Downloads\wkconsultoria-main\Pedidos.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.939,C:\Users\Welington\Downloads\wkconsultoria-main\Entity.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.951,C:\Users\Welington\Downloads\wkconsultoria-main\DMConexao.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.973,C:\Users\Welington\Downloads\wkconsultoria-main\Controle.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.983,C:\Users\Welington\Downloads\wkconsultoria-main\ConexaoBanco.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:00.995,C:\Users\Welington\Downloads\wkconsultoria-main\Clientes.pas=</Transaction>
+    <Transaction>2022/03/22 11:15:05.960,=D:\BACKUP\Testes\WKConsultoria\Clientes.pas</Transaction>
+    <Transaction>2022/03/22 11:15:05.978,=D:\BACKUP\Testes\WKConsultoria\ConexaoBanco.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.001,=D:\BACKUP\Testes\WKConsultoria\Controle.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.100,=D:\BACKUP\Testes\WKConsultoria\DMConexao.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.125,=D:\BACKUP\Testes\WKConsultoria\Entity.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.155,=D:\BACKUP\Testes\WKConsultoria\Pedidos.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.183,=D:\BACKUP\Testes\WKConsultoria\PedidosProdutos.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.707,=D:\BACKUP\Testes\WKConsultoria\PedidoVenda.pas</Transaction>
+    <Transaction>2022/03/22 11:15:06.736,=D:\BACKUP\Testes\WKConsultoria\Produtos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
